@@ -36,3 +36,8 @@ footer {
   background: #901CAD;
 }
 
+.tab-content {
+  border: 1px solid #DDD;
+  border-top: none;
+  padding: 50px;
+}
